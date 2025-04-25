@@ -1,0 +1,3 @@
+/home/Kate/my-project/build/CMakeFiles/my-project.dir
+/home/Kate/my-project/build/CMakeFiles/edit_cache.dir
+/home/Kate/my-project/build/CMakeFiles/rebuild_cache.dir

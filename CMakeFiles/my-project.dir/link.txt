@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/my-project.dir/src/main.cpp.o" "CMakeFiles/my-project.dir/src/archiver.cpp.o" -o my-project  /usr/lib/x86_64-linux-gnu/libz.so 
