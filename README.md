@@ -10,7 +10,7 @@
 
 Linux / Ubuntu
 ```
-$ git clone https://github.com/yourusername/my-project.git
+$ git clone https://github.com/briefl/COPM-IMS-test.git
 $ cd my-project
 $ mkdir build && cd build
 $ cmake ..
@@ -20,7 +20,7 @@ $ make
 Windows (с vcpkg)
 
 ```
-git clone https://github.com/yourusername/my-project.git
+git clone https://github.com/briefl/COPM-IMS-test.git
 cd my-project
 mkdir build && cd build
 cmake -DCMAKE_TOOLCHAIN_FILE=path/to/vcpkg/scripts/buildsystems/vcpkg.cmake ..
